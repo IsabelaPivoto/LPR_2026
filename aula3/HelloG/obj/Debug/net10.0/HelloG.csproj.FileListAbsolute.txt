@@ -1,0 +1,15 @@
+C:\Users\Alunos\Desktop\LPR_2026\aula3\HelloG\obj\Debug\net10.0\HelloG.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alunos\Desktop\LPR_2026\aula3\HelloG\obj\Debug\net10.0\HelloG.AssemblyInfoInputs.cache
+C:\Users\Alunos\Desktop\LPR_2026\aula3\HelloG\obj\Debug\net10.0\HelloG.AssemblyInfo.cs
+C:\Users\Alunos\Desktop\LPR_2026\aula3\HelloG\obj\Debug\net10.0\HelloG.csproj.CoreCompileInputs.cache
+C:\Users\Alunos\Desktop\LPR_2026\aula3\HelloG\obj\Debug\net10.0\HelloG.sourcelink.json
+C:\Users\Alunos\Desktop\LPR_2026\aula3\HelloG\bin\Debug\net10.0\HelloG.exe
+C:\Users\Alunos\Desktop\LPR_2026\aula3\HelloG\bin\Debug\net10.0\HelloG.deps.json
+C:\Users\Alunos\Desktop\LPR_2026\aula3\HelloG\bin\Debug\net10.0\HelloG.runtimeconfig.json
+C:\Users\Alunos\Desktop\LPR_2026\aula3\HelloG\bin\Debug\net10.0\HelloG.dll
+C:\Users\Alunos\Desktop\LPR_2026\aula3\HelloG\bin\Debug\net10.0\HelloG.pdb
+C:\Users\Alunos\Desktop\LPR_2026\aula3\HelloG\obj\Debug\net10.0\HelloG.dll
+C:\Users\Alunos\Desktop\LPR_2026\aula3\HelloG\obj\Debug\net10.0\refint\HelloG.dll
+C:\Users\Alunos\Desktop\LPR_2026\aula3\HelloG\obj\Debug\net10.0\HelloG.pdb
+C:\Users\Alunos\Desktop\LPR_2026\aula3\HelloG\obj\Debug\net10.0\HelloG.genruntimeconfig.cache
+C:\Users\Alunos\Desktop\LPR_2026\aula3\HelloG\obj\Debug\net10.0\ref\HelloG.dll
