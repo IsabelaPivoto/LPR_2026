@@ -16,5 +16,7 @@ for(int i = 0; i<3; i++) {
         System.Console.WriteLine(matriz[i,j]);
         aux += matriz[i,j];
     }
-
+ System.Console.WriteLine();
 }
+
+System.Console.WriteLine($"Soma de todos os elementos: {aux}");
