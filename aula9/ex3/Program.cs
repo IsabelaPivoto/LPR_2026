@@ -8,7 +8,7 @@ class Program
         Random random = new Random();
         List<int> numeros = new List<int>();
 
-        // Gera 100 números aleatórios
+        
         for (int i = 0; i < 100; i++)
         {
             numeros.Add(random.Next(1, 101));
